@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DX43d/fXN28=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hy971\\source\\repos\\e-commerceWEB\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hy971\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\hy971\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
